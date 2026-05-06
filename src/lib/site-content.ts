@@ -165,7 +165,7 @@ export const news: NewsItem[] = [
 
 export const siteContent: Record<Locale, LocaleContent> = {
   en: {
-    brand: "Zhejiang Brew Equipment Co., Ltd.",
+    brand: "BrewForge Systems",
     heroTitle: "Turnkey Brewery Equipment Manufacturer for Global Breweries",
     heroSubtitle:
       "We design and manufacture 5HL–100HL+ brewery systems, fermentation tanks, brewhouse equipment, and complete beer production lines for craft breweries, brewpubs, and commercial beer plants worldwide.",
@@ -285,7 +285,7 @@ export const siteContent: Record<Locale, LocaleContent> = {
       { value: "5HL–100HL+", label: "System Capacity Range" },
       { value: "24H", label: "Initial Project Response" },
     ],
-    aboutTitle: "About Zhejiang Brew Equipment",
+    aboutTitle: "About BrewForge Systems",
     aboutBody:
       "We are a professional brewery equipment manufacturer specializing in custom turnkey brewery systems. With 20+ years of experience, we've designed and delivered fermentation tanks, brewhouse equipment, and complete beer production lines to craft breweries, micro-breweries, and commercial beer plants across 30+ countries.",
     contactTitle: "Discuss Your Brewery Project",
